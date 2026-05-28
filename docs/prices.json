@@ -1,0 +1,51 @@
+[
+  {
+    "model": "doubao-seed-1-8-251228",
+    "type": "tokens",
+    "channel_type": 57,
+    "input": 0.2,
+    "output": 0.2
+  },
+  {
+    "model": "doubao-seed-character-251128",
+    "type": "tokens",
+    "channel_type": 57,
+    "input": 0.2,
+    "output": 0.2
+  },
+  {
+    "model": "qwen-plus",
+    "type": "tokens",
+    "channel_type": 17,
+    "input": 0.2,
+    "output": 0.2
+  },
+  {
+    "model": "qwen-max-longcontext",
+    "type": "tokens",
+    "channel_type": 17,
+    "input": 0.2,
+    "output": 0.2
+  },
+  {
+    "model": "qwen-max",
+    "type": "tokens",
+    "channel_type": 17,
+    "input": 0.2,
+    "output": 0.2
+  },
+  {
+    "model": "text-embedding-v1",
+    "type": "tokens",
+    "channel_type": 17,
+    "input": 0.2,
+    "output": 0.2
+  },
+  {
+    "model": "qwen-turbo",
+    "type": "tokens",
+    "channel_type": 17,
+    "input": 0.2,
+    "output": 0.2
+  }
+]
