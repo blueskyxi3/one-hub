@@ -1,13 +1,20 @@
 [
   {
-    "model": "doubao-seed-1-8-251228",
+    "model": "doubao-seed-*",
     "type": "tokens",
     "channel_type": 57,
     "input": 0.2,
     "output": 0.2
   },
   {
-    "model": "doubao-seed-character-251128",
+    "model": "doubao-seedance-*",
+    "type": "tokens",
+    "channel_type": 57,
+    "input": 1.0,
+    "output": 2.0
+  },
+  {
+    "model": "doubao-*",
     "type": "tokens",
     "channel_type": 57,
     "input": 0.2,
